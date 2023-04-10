@@ -4,6 +4,7 @@ import sys
 import _thread
 print("ahoorabm god hacker")
 print("in scripet vaqei hast pas fakesh nakonid thanks")
+print("id sorousham => @ahoorabm va @ahoorabm2 va @ahoorabm3 lets go")
 site = input("Enter your site IP => ")
 thread_count = input("Enter your Turbo => ")
 ip = socket.gethostbyname(site)
